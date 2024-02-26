@@ -1,0 +1,13 @@
+{
+  "app_name": "Command Notebook",
+  "version": "1.0",
+  "author": "Gustavo Herrero Nunes",
+  "description": "An app to create and maintain all your notes through the command prompt.",
+  "features": [
+    "Create, Read, Update and Delete Notes",
+    "Before save, verify if the Note has a title",
+    "Before save, verify if the Note has a subject",
+    "Show a list of all notes (Title and Subject)",
+    "When updating a note, show its Title and Subject"
+  ]
+}
